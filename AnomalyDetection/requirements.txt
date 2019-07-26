@@ -1,0 +1,9 @@
+msrestazure==0.6.1
+azure-mgmt-resource==3.0.0
+azure-common==1.1.23
+azure-mgmt-compute==5.0.0
+numpy==1.16.4
+pandas==0.24.2
+matplotlib==3.1.0
+datetime==4.3
+azure-datalake-store==0.0.45
